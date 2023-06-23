@@ -1,0 +1,8 @@
+C:\Users\jradz\OneDrive\Pulpit\zadania 17.06-instrukcje\zadanie nr 1 pp 17.06 instrukcje\bin\Debug\zadanie nr 1 pp 17.06 instrukcje.exe.config
+C:\Users\jradz\OneDrive\Pulpit\zadania 17.06-instrukcje\zadanie nr 1 pp 17.06 instrukcje\bin\Debug\zadanie nr 1 pp 17.06 instrukcje.exe
+C:\Users\jradz\OneDrive\Pulpit\zadania 17.06-instrukcje\zadanie nr 1 pp 17.06 instrukcje\bin\Debug\zadanie nr 1 pp 17.06 instrukcje.pdb
+C:\Users\jradz\OneDrive\Pulpit\zadania 17.06-instrukcje\zadanie nr 1 pp 17.06 instrukcje\obj\Debug\zadanie nr 1 pp 17.06 instrukcje.csproj.AssemblyReference.cache
+C:\Users\jradz\OneDrive\Pulpit\zadania 17.06-instrukcje\zadanie nr 1 pp 17.06 instrukcje\obj\Debug\zadanie nr 1 pp 17.06 instrukcje.csproj.SuggestedBindingRedirects.cache
+C:\Users\jradz\OneDrive\Pulpit\zadania 17.06-instrukcje\zadanie nr 1 pp 17.06 instrukcje\obj\Debug\zadanie nr 1 pp 17.06 instrukcje.csproj.CoreCompileInputs.cache
+C:\Users\jradz\OneDrive\Pulpit\zadania 17.06-instrukcje\zadanie nr 1 pp 17.06 instrukcje\obj\Debug\zadanie nr 1 pp 17.06 instrukcje.exe
+C:\Users\jradz\OneDrive\Pulpit\zadania 17.06-instrukcje\zadanie nr 1 pp 17.06 instrukcje\obj\Debug\zadanie nr 1 pp 17.06 instrukcje.pdb
